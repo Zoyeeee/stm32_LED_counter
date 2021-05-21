@@ -36,5 +36,6 @@ void ChangeLED(unsigned counter)
 
 proteus:
 ---
-![Uploading image.png…]()
+![001](https://user-images.githubusercontent.com/74950715/119073500-0a551500-ba20-11eb-9599-b9c15b632348.png)
+
 
